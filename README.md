@@ -1,5 +1,5 @@
 # youtube_clone
-This is a clone of the Youtube app made using react native and the youtube data api. It contains only the main features of youtube and it's intended for educational purposes.  
+This is a clone of the Youtube app made using react native and the youtube data api. It contains the main features of Youtube and it's intended for educational purposes only.  
 
 ## How to install and run the app on an emulator.
 1. Clone the repository
