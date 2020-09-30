@@ -5,7 +5,7 @@ This is a clone of the Youtube app made using react native and the youtube data 
 1. Clone the repository
 2. Run npm install inside the project's folder
 3. Add your youtube api key inside the .env file. You can get the key [Here](https://console.developers.google.com/)    
-4. Run npx react-native start and npx react-native run-android in separate consoles.
+4. Run npx react-native start and npx react-native run-android.
 
 ## Tech Stack
 - React Native
